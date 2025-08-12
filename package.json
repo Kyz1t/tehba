@@ -1,0 +1,24 @@
+{
+  "name": "tehbag-web-project",
+  "version": "1.0.0",
+  "description": "TehBag web project with blockchain integration",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Build completed - static files ready for deployment'",
+    "start": "echo 'This is a static website. Open index.html in your browser or serve the files with a web server.'"
+  },
+  "dependencies": {
+    "web3": "^1.10.0",
+    "axios": "^1.6.0",
+    "jquery": "^3.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "web3",
+    "tehbag"
+  ],
+  "author": "",
+  "license": "MIT"
+}
